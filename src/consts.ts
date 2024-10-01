@@ -51,14 +51,14 @@ export const menuItems = [
   }, // Blog page with sub-items
   {
     id: "project",
-    text: "Project",
+    text: "Projects",
     href: "/project",
     svg: "project",
     target: "_self",
   }, // Projects page
   {
     id: "friend",
-    text: "Friend",
+    text: "Friends",
     href: "/friend",
     svg: "friend",
     target: "_self",
